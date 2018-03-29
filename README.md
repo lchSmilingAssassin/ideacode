@@ -1,0 +1,2 @@
+# ideacode
+my ideacode
